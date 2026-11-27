@@ -1,6 +1,6 @@
-﻿### Hi, I'm Laurens Türk
+﻿### Hey, I'm Laurens
 
-Creative Computing student (B.Sc., USTP) based in Vienna, working across **full-stack web development**, **mobile apps**, and **3D / game development**.
+Creative Computing student based in Vienna, working across **full-stack web development**, **mobile apps**, and **3D / game development**.
 
 - Currently writing my Bachelor's thesis on *AI-assisted vs. traditional workflows for creating detailed 3D models for video games*
 - Working on AI-assisted 3D pipelines at the **University of Vienna** & tutoring **Frontend / Game Development** at USTP
